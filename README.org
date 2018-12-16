@@ -146,9 +146,9 @@ aplikasi yang tidak native atau tidak memiliki support di non-windows.
 | No | Mata Kuliah (MK)                 | Kode       | Bawaan               | *GNU/Linux* | MS Windows | Mac OS | Sem |
 |    |                                  |            | <20>                 |             |            |        |     |
 |----+----------------------------------+------------+----------------------+-------------+------------+--------+-----|
-|  1 | Administrasi Sistem Server       | KOM-152361 | GNU/Linux Distro     | V           |   WSL(v)   |        |     |
+|  1 | Administrasi Sistem Server       | KOM-152361 | GNU/Linux Distro     | V           |            |        |     |
 |  2 | Administrasi Jaringan            | KOM-152161 | Gns3,Cisco Packet traces | V           | V          | V      |     |
-|  3 | Keamanan Jaringan                | TIF-151351 | Penetration packages | V           |            |        |     |
+|  3 | Keamanan Jaringan                | TIF-151351 | Penetration packages | V           |    WSL (Kali Linux)        |        |     |
 |  4 | Perencanaan dan Analisa Jaringan | TIF-152363 | -                    |             |            |        |     |
 |  5 | Sistem Komputasi Terdistribusi   | KOM-151372 | -                    |             |            |        |     |
 |  6 | Jaringan Multimedia              | TIF-152362 | -                    |             |            |        |     |
